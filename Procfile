@@ -1,1 +1,1 @@
-web: node pokemon-showdown
+Worker: node pokemon-showdown
